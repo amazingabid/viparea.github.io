@@ -1,0 +1,41 @@
+ .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+h2{
+	padding-top: 10px;
+}
+
+.navbar-brand{
+	width:50px;
+	height:50px;
+	}
+.carousel{
+	background:  #512DA8;
+}
+#myCarousel{
+	background-color: grey;
+}
+.carousel-item{
+	padding: 5% 15%;
+	text-align: center;
+}
+.feedback-img{
+	padding-bottom: 15px;
+	width: 120px;
+	height: auto;
+}
+.feedback-txt{
+	padding-bottom: 200px;
+}
+
+   @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
